@@ -2,7 +2,7 @@
 /**
  *  Plugin Name: BuddyPress Integration for Avia Themes
  *  Plugin URI: http://kriesi.at
- *  Description: Helps you to euse BuddyPress with the latest Avia Themes (Enfold and newer themes)
+ *  Description: Helps you to use BuddyPress with the latest Avia Themes (Enfold and newer themes)
  *  Author: InoPlugs / Devin Vinson
  *  Version: 1.0
  *  Author URI: -
